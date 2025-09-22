@@ -1,0 +1,8 @@
+User Profile Generator: Write a script that takes user input (name, email, bio) and generates an HTML profile page.
+
+CSV Processor: Read a CSV file, process its data, and write the results to a new file.
+
+Log Parser: Read a server log file, filter error messages, and write them to a separate file.
+
+Configuration Loader: Read a configuration file in INI format and print the settings in a formatted table.
+

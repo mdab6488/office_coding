@@ -1,0 +1,10 @@
+webapp/
+    __init__.py
+    utils/
+        __init__.py
+        validators.py
+        formatters.py
+    models/
+        __init__.py
+        user.py
+    main.py
